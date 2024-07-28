@@ -1,5 +1,5 @@
 <script setup>
-import AccordionComponent from './components/AccordionComponent.vue'
+import AccordionComponent from '@/components/AccordionComponent.vue'
 </script>
 
 <template>
